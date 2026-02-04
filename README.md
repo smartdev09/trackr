@@ -2,10 +2,7 @@
 
 Track and analyze AI coding tool usage across your team. Supports multiple providers with a modular architecture.
 
-<video autoplay loop muted playsinline controls>
-  <source src="docs/src/assets/trackr.mp4" type="video/mp4" />
-  Your browser does not support the video tag.
-</video>
+![Trackr Dashboard](docs/src/assets/screenshot.png)
 
 ## Features
 
