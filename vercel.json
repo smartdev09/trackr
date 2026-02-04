@@ -1,0 +1,28 @@
+{
+  "crons": [
+    {
+      "path": "/api/cron/sync-anthropic",
+      "schedule": "0 */6 * * *"
+    },
+    {
+      "path": "/api/cron/sync-cursor",
+      "schedule": "0 * * * *"
+    },
+    {
+      "path": "/api/cron/sync-github-mappings",
+      "schedule": "0 * * * *"
+    },
+    {
+      "path": "/api/cron/backfill-anthropic",
+      "schedule": "0 */6 * * *"
+    },
+    {
+      "path": "/api/cron/backfill-cursor",
+      "schedule": "0 */6 * * *"
+    },
+    {
+      "path": "/api/cron/backfill-github",
+      "schedule": "0 */6 * * *"
+    }
+  ]
+}
