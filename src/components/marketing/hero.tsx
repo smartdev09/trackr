@@ -30,7 +30,7 @@ export function Hero() {
           </p>
 
           <div className="flex items-center justify-center gap-6">
-            <a href="https://smartdev.github.io/trackr/" target="_blank" rel="noopener noreferrer">
+            <a href="https://smartdev09.github.io/trackr/" target="_blank" rel="noopener noreferrer">
               <button className="relative inline-flex items-center justify-center px-8 py-3 text-sm font-mono bg-white text-black border border-white/20 transition-transform hover:translate-x-0.5 hover:translate-y-0.5">
                 <span className="absolute -bottom-0.5 -right-0.5 w-full h-full border border-white/20 -z-10"></span>
                 Get Started

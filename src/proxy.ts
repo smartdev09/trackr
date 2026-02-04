@@ -42,7 +42,7 @@ export function proxy(request: NextRequest) {
     }
 
     // For pages, redirect to sign-in
-    const signInUrl = new URL('/sign-in', request.url);
+    const signInUrl = new URL('/welcome', request.url);
     signInUrl.searchParams.set('callbackUrl', pathname);
     return NextResponse.redirect(signInUrl);
   }

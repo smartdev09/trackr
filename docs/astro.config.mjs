@@ -2,7 +2,7 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
 export default defineConfig({
-  site: 'https://smartdev.github.io',
+  site: 'https://smartdev09.github.io',
   base: '/trackr',
   image: {
     service: { entrypoint: 'astro/assets/services/noop' },

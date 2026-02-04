@@ -28,7 +28,7 @@ export function GetStarted() {
                 </button>
               </Link>
 
-              <a href="https://smartdev.github.io/trackr/" target="_blank" rel="noopener noreferrer">
+              <a href="https://smartdev09.github.io/trackr/" target="_blank" rel="noopener noreferrer">
                 <button className="relative inline-flex items-center justify-center px-6 py-2 text-sm font-mono bg-transparent text-white border border-white transition-transform hover:translate-x-0.5 hover:translate-y-0.5">
                   <span className="absolute -bottom-0.5 -right-0.5 w-full h-full border border-white -z-10"></span>
                   View Documentation

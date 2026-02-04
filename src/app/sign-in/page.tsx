@@ -93,7 +93,7 @@ function SignInContent() {
             <AbacusLogo className="w-10 h-10 text-white" />
           </div>
           <h1 className="font-display text-2xl font-semibold text-white tracking-tight">
-            Abacus
+            Trackr
           </h1>
           <p className="font-mono text-xs text-muted mt-1">
             AI usage analytics for your team
