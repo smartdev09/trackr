@@ -1,5 +1,3 @@
-import { DottedSeparator } from './dotted-separator';
-import { FooterLogo } from './FooterLogo';
 import { GetStarted } from './get-started';
 
 export function Footer() {
