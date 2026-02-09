@@ -2,7 +2,7 @@
 
 Track and analyze AI coding tool usage across your team. Supports multiple providers with a modular architecture.
 
-![Trackr Dashboard](docs/src/assets/screenshot.png)
+https://github.com/user-attachments/assets/8054615f-067c-4530-9f1a-88072dd10500
 
 ## Features
 
