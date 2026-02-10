@@ -3,6 +3,7 @@ import { GeistMono } from "geist/font/mono";
 import "./globals.css";
 import { Providers } from "./providers";
 import { Footer } from "@/components/Footer";
+import { Analytics } from "@vercel/analytics/next";
 
 export const metadata: Metadata = {
   title: "Trackr",
@@ -23,6 +24,7 @@ export default function RootLayout({
           </div>
           <Footer />
         </Providers>
+        <Analytics />
       </body>
     </html>
   );
